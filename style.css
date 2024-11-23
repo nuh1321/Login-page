@@ -1,0 +1,45 @@
+.form{
+    height: 450px;
+    width: 330px;
+    border:none;
+    border-radius: 15px;
+    box-shadow: 1px 1px 19px 1px;
+    padding: 35px;
+    margin: auto;
+    font-family: "Josefin Sans", serif;
+    background-color: rgb(242, 243, 245);
+    margin-top: 180px;
+
+  
+}
+input{
+    width: 92%;
+    padding: 10px;
+    font-size: 19px;
+    font-family: "Josefin Sans", serif;
+    margin-bottom: 23px;
+    border: 2px solid rgb(97, 96, 96);
+    border-radius: 6px;
+    
+}
+.form button{
+    width: 99%;
+    padding: 10px;
+    font-size: 18px;
+    background-color: rgb(16, 109, 248);
+    border: none;
+    border-radius: 6px;
+    color: white;
+    margin-bottom: 23px;
+}
+.form img{
+    width: 250px;
+  margin-left: 28px;
+ 
+}
+.form a{
+    text-align: center;
+
+   text-decoration: none;
+    margin-left: 89px;
+}
